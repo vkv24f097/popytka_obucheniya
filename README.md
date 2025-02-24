@@ -1,15 +1,8 @@
- 
-#include <iostream>
-
-#include <string>
-
-using namespace std; 
-
-int main(){
+int main(){ 
 
     string amax = "-1";
     
-    string a;
+    string a; 
     
     cin >> a;
     
